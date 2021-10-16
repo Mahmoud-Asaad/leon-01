@@ -255,7 +255,7 @@ header .links ul li:hover a {
   width: 80px;
   background-color: var(--secondary-color);
   top: -50px;
-  right: 0;
+  right: 20px;
   z-index: -1;
 }
 .services .image img {
